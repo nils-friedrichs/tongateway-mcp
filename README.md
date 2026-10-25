@@ -1,6 +1,6 @@
 # @tongateway/mcp
 
-[![smithery badge](https://smithery.ai/badge/tongateway/agent)](https://smithery.ai/servers/tongateway/agent)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.agntdev/mcp)](https://lightnow.ai/servers/io.github.agntdev/mcp)
 
 MCP server for [Agent Gateway](https://tongateway.ai) — gives AI agents full access to the TON blockchain via Model Context Protocol.
 
